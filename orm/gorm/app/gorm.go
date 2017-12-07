@@ -6,7 +6,7 @@ package gormdb
 // db.user=dbuser
 // db.name=dbname
 // db.password=dbpassword
-// db.singulartable=false # true, false
+// db.singulartable=false # default=false
 
 import (
 	"fmt"

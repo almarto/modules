@@ -24,6 +24,7 @@ db.host=/tmp/app.db  # Use db.host /tmp/app.db is your driver is sqlite
 #db.user=dbuser
 #db.name=dbname
 #db.password=dbpassword
+#db.singulartable=false # default=false
 
 ```
 
